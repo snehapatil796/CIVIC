@@ -19,5 +19,7 @@ CIVIC is an AI-powered Smart Citizen Grievance Management System designed to sim
 ## Objective
 To improve communication between citizens and authorities through intelligent complaint management and faster resolution.
 
+## Link
+https://aistudio.google.com/apps/7a8287b9-a5b6-4a8d-b778-0dddb3636c2a?showPreview=true&showAssistant=true
 ---
 Developed as a project to make grievance management smarter and more accessible.
