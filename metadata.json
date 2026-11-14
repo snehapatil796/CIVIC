@@ -1,0 +1,6 @@
+{
+  "name": "CIVIC — Smart Citizen Grievance & Government Response Platform",
+  "description": "Smart citizen grievance reporting, AI triage, municipal response management, interactive civic mapping, and public transparency analytics.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
